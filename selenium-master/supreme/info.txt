@@ -1,0 +1,12 @@
+name=Tester Tester
+email=Tester@gmail.com
+phone=111222333
+street=Tester Lane
+city=Tester City
+post=05-550 
+country=PL
+c_type=Mastercard
+c_num=1111222233334444
+c_cvv=111
+c_month=11
+c_year=22
